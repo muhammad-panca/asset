@@ -1,0 +1,36 @@
+header{
+    background-color: #d8b6b6;
+    color: #fff;
+    padding: 1mm;
+    text-align: center;
+}
+
+header nav {
+    max-width: 50%;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav li{
+    margin-left: 20px;
+
+}
+
+header nav li a{
+    text-decoration: none;
+}
+
+main{
+    max-width: 100%;
+
+}
+
+#jumbotron img {
+    max-width: 100%;
+}
